@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497288120036",
+    "project_id": "aawake11",
+    "storage_bucket": "aawake11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497288120036:android:2e887a9325f41e427a4ef1",
+        "android_client_info": {
+          "package_name": "com.abrahanrafa.aawake11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497288120036-24cdlb0ll2or4q1q3i9r20joiuc00ilp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQO2NM-99hzjWsWcbl23RjjsNJQAFtMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497288120036-24cdlb0ll2or4q1q3i9r20joiuc00ilp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
