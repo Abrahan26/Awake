@@ -178,8 +178,8 @@ class _HomeNotaState extends State<HomeNota> {
                               children: [
                                 
                                 Container(
-                                    height: 50,
-                                    width: 50,
+                                    height: 40,
+                                    width: 40,
                                   child: ElevatedButton(
                                     
                                     style: ButtonStyle(
@@ -201,8 +201,8 @@ class _HomeNotaState extends State<HomeNota> {
                                   ),
                                 ),
                                 Container(
-                                    height: 50,
-                                    width: 50,
+                                    height: 40,
+                                    width: 40,
                                   child: ElevatedButton(
                                     style: ButtonStyle(
                                       backgroundColor: MaterialStateProperty.all(Colors.orange),
@@ -223,8 +223,8 @@ class _HomeNotaState extends State<HomeNota> {
                                   ),
                                 ),
                                 Container(
-                                    height: 50,
-                                    width: 50,
+                                    height: 40,
+                                    width: 40,
                                   child: ElevatedButton(
                                     
                                     style: ButtonStyle(
@@ -246,8 +246,8 @@ class _HomeNotaState extends State<HomeNota> {
                                   ),
                                 ),
                                 Container(
-                                    height: 50,
-                                    width: 50,
+                                    height: 40,
+                                    width: 40,
                                   child: ElevatedButton(
                                     
                                     style: ButtonStyle(
@@ -269,8 +269,8 @@ class _HomeNotaState extends State<HomeNota> {
                                   ),
                                 ),
                                 Container(
-                                    height: 50,
-                                    width: 50,
+                                    height: 40,
+                                    width: 40,
                                   child: ElevatedButton(
                                     style: ButtonStyle(
                                       backgroundColor: MaterialStateProperty.all(Colors.blue),
